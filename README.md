@@ -440,7 +440,7 @@ SOFTWARE.
 ## 📞 Contact & Support
 
 ### Project Maintainers
-- **Development Team** - [dev@deliverease.com](mailto:dev@deliverease.com)
+- **Development Team** - [okeowoemmanuelm@gmail.com](mailto:okeowoemmanuelm@gmail.com)
 - **Support** - [support@deliverease.com](mailto:support@deliverease.com)
 
 ### Resources
